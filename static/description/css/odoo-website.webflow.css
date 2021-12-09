@@ -254,6 +254,7 @@
 }
 
 .text-span-7 {
+  display: inline;
   padding-right: 3px;
   padding-left: 3px;
   background-color: #f2c811;
@@ -392,7 +393,7 @@
 }
 
 .youtube {
-  margin-top: 14px;
+  margin-top: 100px;
 }
 
 .text-block-9 {
