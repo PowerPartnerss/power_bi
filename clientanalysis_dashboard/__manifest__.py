@@ -14,19 +14,6 @@
     'depends':['account'],
     'support': 'pwr@powerpartners.pro',
     'application': 'False',
-    'assets': {
-    'web.assets_frontend': [
-        'web/static/src/xml/xml.xml',
-        'web/static/src/css/odoo-website.webflow.css',
-        'web/static/src/css/normalize.css',
-        'web/static/src/css/webflow.css'
-    ],
-    'web.assets_common': [
-        'static/src/xml/xml.xml',
-        'web/static/src/css/odoo-website.webflow.css',
-        'static/src/css/normalize.css',
-        'static/src/css/webflow.css'
-    ],
-},
+
 
 }
