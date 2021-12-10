@@ -13,7 +13,19 @@
     'live_test_url': "https://app.powerbi.com/view?r=eyJrIjoiMGU3ZDIyY2QtYTA1NC00ODA4LWI4MWItMDA4NWFjOGJlYWNjIiwidCI6IjNhYmFkYThkLWY1ZmUtNGVkNS1hMDNlLWU4ZGY2NzJlOTQ3MiIsImMiOjl9&pageName=ReportSection",
     'depends':['account'],
     'support': 'pwr@powerpartners.pro',
-    'application': 'False'
-
+    'application': 'False',
+    'assets': {
+    'web.assets_frontend': [
+        'static/src/xml/xml.xml',
+        'static/src/css/odoo-website.webflow.css',
+        'static/src/css/normalize.css',
+        'static/src/css/webflow.css'
+    ],
+    'web.assets_common': [
+        'static/src/xml/xml.xml',
+        'static/src/css/normalize.css',
+        'static/src/css/webflow.css'
+    ],
+},
 
 }
