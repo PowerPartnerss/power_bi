@@ -1,5 +1,5 @@
 {
-    'name': "Client Analysis Dashboard",
+    'name': "Client Analysis Dashboard in Power BI",
     'version': '0.1',
     'depends': ['base'],
     'author': "Power Partners",
