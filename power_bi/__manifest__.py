@@ -1,6 +1,6 @@
 {
     'name': "Power BI Dashboard (Client Analysis)",
-    'version': '0.1',
+    'version': '15.0.1',
     'depends': ['base'],
     'author': "Power Partners",
     'company': "Power Partners",
